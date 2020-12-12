@@ -13,7 +13,7 @@ I am a developer who is passionate about stuff like androids and backends. Few t
 <br>
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=officiallygod&hide=css,java,html&theme=radical">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officiallygod&layout=compact)]
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=officiallygod&layout=compact">
   &nbsp;&nbsp;&nbsp;
   <img src = "https://github-readme-stats.vercel.app/api?username=officiallygod&show_icons=true&theme=radical&line_height=27">
 </p>
