@@ -11,11 +11,11 @@ I am a developer who is passionate about stuff like androids and backends. Few t
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=officiallygod&show_icons=true&theme=radical&line_height=27">
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=officiallygod&hide=css,java,html&theme=radical">
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=officiallygod&hide=css,java,html&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=officiallygod&show_icons=true&theme=radical&line_height=27">
 </p>
 </details>
 
