@@ -21,11 +21,14 @@ I am a developer who is passionate about stuff like androids and backends. Few t
 ---
 <details open>
  <summary> 😇 <b>My Github Week Time</b>: </summary>
-<br>[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
  <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=officiallygod">
+  <a href="https://github.com/officiallygod/sender">
+   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=officiallygod&repo=sender">
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api?username=officiallygod&show_icons=true&theme=radical&line_height=27">
+  <a href="https://github.com/officiallygod/watchit">
+   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=officiallygod&repo=watchit">
+  </a>
 </p>
 </details>
 
