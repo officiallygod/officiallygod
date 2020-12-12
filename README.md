@@ -28,7 +28,7 @@ I am a developer who is passionate about stuff like androids and backends. Few t
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/officiallygod/watchit">
-   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=officiallygod&repo=watchit">
+   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=officiallygod&repo=watchit&theme=radical">
   </a>
 </p>
 </details>
