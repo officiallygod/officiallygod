@@ -18,3 +18,14 @@ I am a developer who is passionate about stuff like androids and backends. Few t
 </p>
 </details>
 
+---
+<details open>
+ <summary> 😇 <b>My Github Week Time</b>: </summary>
+<br>
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=officiallygod">
+  &nbsp;&nbsp;&nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api?username=officiallygod&show_icons=true&theme=radical&line_height=27">
+</p>
+</details>
+
