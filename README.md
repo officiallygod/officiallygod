@@ -5,6 +5,7 @@ I am a developer who is passionate about like Web, Android, and Servers. A few t
 - 🌐 Visit my [porfolio website](https://materilio-allen.firebaseapp.com) for complete background and contact.
 - 👋 My personal [blog site](https://iamallenbenny.blogspot.com/)
 
+<!---
 ---
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
@@ -30,4 +31,4 @@ I am a developer who is passionate about like Web, Android, and Servers. A few t
   </a>
 </p>
 </details>
-
+-->
